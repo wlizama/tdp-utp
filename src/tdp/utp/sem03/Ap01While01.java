@@ -26,7 +26,7 @@ public class Ap01While01 {
         System.out.print("Cuantos empleados resgistrara? ");
         int nempl = sc.nextInt();
         int cont = 0;
-        double pago_x_dia = 80;
+        double pago_x_dia = 100;
         double suma_sueldo_mes = 0;
         int nempl4 = 0, nempl25y35 = 0, nempl1 = 0;
         
